@@ -10,7 +10,7 @@
     <!-- /* Channel Name:  <br>*/ -->
   @foreach($name as $names)
   
-       {{$names}} <br>
+       {{$names}} 
 
 @endforeach
 </body>
